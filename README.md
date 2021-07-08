@@ -1,4 +1,4 @@
-<h1>## Hi, I'm Julia! I create && I code 👋 👩🏻‍💻</h1>
+<h1>## Hi, I'm Julia, I create && I code 👋 👩🏻‍💻</h1>
 
 <img width="757" alt="image" src="https://user-images.githubusercontent.com/78125712/124890067-022a5680-e01b-11eb-8260-0a8d99fdd793.png">
 
