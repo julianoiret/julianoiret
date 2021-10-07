@@ -1,7 +1,8 @@
 <h1>## Hi, I'm Julia, I create && I code 👋 👩🏻‍💻</h1>
 
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/78125712/124891665-8c26ef00-e01c-11eb-85ec-7098a4f1dbfc.png">
 
+
+<img width="1044" alt="presentation-julia" src="https://user-images.githubusercontent.com/78125712/136300365-54908589-75b6-4872-9528-dea801c6b394.png">
 
 
 
