@@ -2,7 +2,7 @@
 
 
 
-<img width="1044" alt="presentation-julia" src="https://user-images.githubusercontent.com/78125712/136300365-54908589-75b6-4872-9528-dea801c6b394.png">
+![Github banner](https://user-images.githubusercontent.com/78125712/203872710-8844e818-1fed-4fac-8bb1-f5d72b4c9c68.png)
 
 
 
